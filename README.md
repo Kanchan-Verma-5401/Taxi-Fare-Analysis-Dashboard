@@ -34,46 +34,12 @@ Revenue
 
 4. 📊 Dashboard Pages
 🏠 Homepage
-Dashboard navigation
-Interactive buttons
-Report overview
-
 📈 Overall Analysis
-Total Bookings
-Completed Trips
-Revenue
-Average Fare
-Trip Trends
-Booking Status
-
 🚗 Vehicle Type Analysis
-Vehicle-wise bookings
-Revenue by vehicle
-Vehicle performance comparison
-
 💰 Revenue Analysis
-Revenue trends
-Daily/Monthly earnings
-Revenue contribution
-Fare distribution
-
 ❌ Cancellation Analysis
-Total cancellations
-Customer cancellations
-Driver cancellations
-Cancellation reasons
-Cancellation percentage
-
 ⭐ Rating Analysis
-Customer Ratings
-Driver Ratings
-Rating distribution
-Average rating comparison
-
 📋 Summary Dashboard
-Overall business KPIs
-Performance summary
-Final business insights
 
 
 5. ✨ Features
@@ -137,4 +103,5 @@ Profitability analysis
 Mobile-optimized dashboard
 
 10. Screenshots / Demos
+    Dashboard page - https://github.com/Kanchan-Verma-5401/Taxi-Fare-Analysis-Dashboard/blob/main/Taxi%20Fare%20Dashboard.png
     
